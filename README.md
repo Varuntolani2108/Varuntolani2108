@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
 ## Projects
 1. **[Gestured-Controlled-PC](https://github.com/Varuntolani2108/Gestured-Controlled-PC)**: A project that allows controlling a PC using hand and finger gestures.
 2. **[Skin Cancer Detection](https://github.com/Varuntolani2108/skin-cancer-detection)**: A machine learning project for detecting skin cancer from images.
-3. **[Sign Language Recognition using Mediapipe](https://github.com/Varuntolani2108/Sign-Language-Recognition-using-Mediapipe)**: A real-time sign language recognition system using Mediapipe and OpenCV.
+3. **[Hand Gesture Detection using Mediapipe](https://github.com/Varuntolani2108/Hand-Gesture-Detection-using-Mediapipe)**: A real-time sign language recognition system using Mediapipe and OpenCV.
 4. **[Image Generation using Leap](https://github.com/Varuntolani2108/Image-Generation-using-Leap)**: A project for generating images using the Leap Api.
 5. **[NFT Marketplace](https://github.com/21parthh/nft-marketplace)**: A decentralized application for trading NFTs.
 
