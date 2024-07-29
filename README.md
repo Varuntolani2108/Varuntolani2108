@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
 1. **[Skin Cancer Detection](https://github.com/Varuntolani2108/skin-cancer-detection)**: A machine learning project for detecting skin cancer from images.
 2. **[Gestured-Controlled-PC](https://github.com/Varuntolani2108/Gestured-Controlled-PC)**: A project that allows controlling a PC using hand and finger gestures.
 3. **[Twitter Sentiment Analysis](https://github.com/Varuntolani2108/Twitter-Sentiment-Analysis)**: A project to classify tweets' sentiment as positive, negative, or neutral using NLP techniques.
-4. **[Student Performance Analysis](https://github.com/Varuntolani2108/Student-Performance-Analysis)**:  A project that analyzes student performance based on various academic and demographic factors.
+4. **[Student Data Analysis](https://github.com/Varuntolani2108/Student-Data-Analysis)**:  A project that analyzes student performance based on various academic and demographic factors.
 5. **[Price Prediction for Flights](https://github.com/Varuntolani2108/Price-Prediction-for-Flights)**:
 6. **[Hand Gesture Detection using Mediapipe](https://github.com/Varuntolani2108/Hand-Gesture-Detection-using-Mediapipe)**: A real-time sign language recognition system using Mediapipe and OpenCV.
 7. **[Image Generation using Leap](https://github.com/Varuntolani2108/Image-Generation-using-Leap)**: A project for generating images using the Leap Api.
