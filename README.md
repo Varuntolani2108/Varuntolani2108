@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
   
 ## About Me
 - 👀 I’m interested in machine learning, computer vision, and software development.
-- 🌱 I’m currently learning machine learning techniques and exploring blockchain technology.
+- 🌱 I’m currently learning machine learning techniques, data visualization, and data analytics to enhance my data science skill set.
 - 💞️ I’m looking to collaborate on open-source projects related to Machine learning.
 - 📫 How to reach me: You can reach me through my [GitHub profile](https://github.com/Varuntolani2108) or email me at varuntolani218@gmail.com.
 - 😄 Pronouns: He/Him
